@@ -3,21 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/ansible/add-ssh-key.yml" timestamp="1462102817076">
-        <mark key="[" line="1" column="12" />
+      <file name="$USER_HOME$/Dropbox/code/ansible/add-ssh-key.yml" timestamp="1462105951501">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/run.sh" timestamp="1462106321412">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="65" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/install-docker.yml" timestamp="1462105267984">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/base.yaml" timestamp="1462102479808" />
+      <file name="$USER_HOME$/Dropbox/code/ansible/dev" timestamp="1462106300509">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="61" column="24" />
+        <mark key="^" line="61" column="24" />
+        <mark key="." line="61" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/install-weave.yml" timestamp="1462105366637">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="26" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcm9sZTogZG9ja2VyLm9mZmljaWFsLnNjcmlwdAogICAgLSByb2xlOiB3ZWF2ZQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">YW5zaWJsZS1wbGF5Ym9vayAtLWxpbWl0IGRyb3BsZXRzZm8xLnRhbmd5b3V6ZS5jb20gYWRkLXNzaC1rZXkueW1sCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>dropletsg</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcm9sZTogZG9ja2VyLm9mZmljaWFsLnNjcmlwdAogICAgLSByb2xlOiB3ZWF2ZQo=</text>
+        <text encoding="base64">YW5zaWJsZS1wbGF5Ym9vayAtLWxpbWl0IGRyb3BsZXRzZm8xLnRhbmd5b3V6ZS5jb20gYWRkLXNzaC1rZXkueW1sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByb2xlczoKICAgIC0gcm9sZTogY29tbW9uCg==</text>
+        <text encoding="base64">YW5zaWJsZS1wbGF5Ym9vayAtLWxpbWl0IGRyb3BsZXRzZy50YW5neW91emUuY29tIGFkZC1zc2gta2V5LnltbAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>afhhh1</text>
+      </register>
+      <register name="5" type="4">
+        <text>;</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="4">
+        <text>;</text>
+      </register>
+      <register name="8" type="4">
+        <text>f</text>
+      </register>
+      <register name="9" type="4">
+        <text>a</text>
+      </register>
+      <register name="-" type="4">
+        <text>dropletsg</text>
       </register>
     </registers>
     <search>
