@@ -3,73 +3,102 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/ansible/add-ssh-key.yml" timestamp="1462105951501">
+      <file name="$USER_HOME$/Dropbox/code/ansible/add-ssh-key.yml" timestamp="1462189503540">
+        <mark key="'" line="1" column="11" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/ansible/run.sh" timestamp="1462106321412">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="65" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="$USER_HOME$/Dropbox/code/ansible/play-ufw.yml" timestamp="1462189504292">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/run.sh" timestamp="1462189776247">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/weave-restart.yml" timestamp="1462189808312">
+        <mark key="[" line="10" column="98" />
+        <mark key="]" line="10" column="103" />
+        <mark key="." line="10" column="103" />
+        <mark key="^" line="10" column="103" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/ansible/install-docker.yml" timestamp="1462105267984">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/base.yaml" timestamp="1462102479808" />
-      <file name="$USER_HOME$/Dropbox/code/ansible/dev" timestamp="1462106300509">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="61" column="24" />
-        <mark key="^" line="61" column="24" />
-        <mark key="." line="61" column="24" />
+      <file name="$USER_HOME$/Dropbox/code/ansible/dev" timestamp="1462189840796">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/ansible/install-weave.yml" timestamp="1462105366637">
+      <file name="$USER_HOME$/Dropbox/code/ansible/install-weave.yml" timestamp="1462189502387">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/weave-start.yml" timestamp="1462189699134">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="50" column="9" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="11" column="9" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="16" column="11" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="10" column="34" filename="$USER_HOME$/Dropbox/code/ansible/run.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/ansible/install-weave.yml" />
+      <jump line="1" column="11" filename="$USER_HOME$/Dropbox/code/ansible/add-ssh-key.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/ansible/play-ufw.yml" />
+      <jump line="20" column="19" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="6" column="19" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="1" column="10" filename="$USER_HOME$/Dropbox/code/ansible/weave-start.yml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">YW5zaWJsZS1wbGF5Ym9vayAtLWxpbWl0IGRyb3BsZXRzZm8xLnRhbmd5b3V6ZS5jb20gYWRkLXNzaC1rZXkueW1sCg==</text>
+        <text encoding="base64">IyBhbnNpYmxlLXBsYXlib29rIHdlYXZlLXN0YXJ0LnltbAo=</text>
       </register>
       <register name="1" type="4">
-        <text>dropletsg</text>
+        <text>alisg1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YW5zaWJsZS1wbGF5Ym9vayAtLWxpbWl0IGRyb3BsZXRzZm8xLnRhbmd5b3V6ZS5jb20gYWRkLXNzaC1rZXkueW1sCg==</text>
+      <register name="&quot;" type="4">
+        <text>alisg1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5zaWJsZS1wbGF5Ym9vayAtLWxpbWl0IGRyb3BsZXRzZy50YW5neW91emUuY29tIGFkZC1zc2gta2V5LnltbAo=</text>
+        <text encoding="base64">LSBuYW1lOiBzdGFydCBvbiBzZwogIGhvc3RzOiBhbGlzZzEudGFuZ3lvdXplLmNvbQogIHRhc2tzOiAKICAgIC0gbmFtZTogc3RhcnQKICAgICAgY29tbWFuZDogd2VhdmUgbGF1bmNoIC0taW5pdC1wZWVyLWNvdW50IDMgLS1pcGFsbG9jLXJhbmdlIDEwMC42NC4wLjAvMTYgLS1kbnMtZG9tYWluPSJxYi4iCgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>all:!alisg1.tangyouze.com</text>
       </register>
       <register name="4" type="4">
-        <text>afhhh1</text>
+        <text>all</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
-      <register name="7" type="4">
-        <text>;</text>
+      <register name="7" type="2">
+        <text encoding="base64">YWxpaHoudGFuZ3lvdXplLmNvbQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="8" type="2">
+        <text encoding="base64">YWxpaGszLnRhbmd5b3V6ZS5jb20K</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">YWxpaGszLnRhbmd5b3V6ZS5jb20KYWxpaGszLnRhbmd5b3V6ZS5jb20K</text>
       </register>
       <register name="-" type="4">
-        <text>dropletsg</text>
+        <text>alisg1</text>
       </register>
     </registers>
     <search>
@@ -94,6 +123,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
