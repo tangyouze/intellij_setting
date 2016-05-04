@@ -9,6 +9,16 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462359021603">
+        <mark key="'" line="509" column="16" />
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="54" column="20" />
+        <mark key="." line="54" column="20" />
+        <mark key="^" line="54" column="20" />
+      </file>
+      <file name="/a.dummy" timestamp="1462358959828">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/ansible/play-ufw.yml" timestamp="1462189504292">
         <mark key="'" line="0" column="0" />
       </file>
@@ -47,6 +57,12 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js.py" timestamp="1462358954956">
+        <mark key="'" line="745" column="79" />
+        <mark key="]" line="745" column="79" />
+        <mark key="^" line="745" column="79" />
+        <mark key="." line="745" column="79" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
@@ -64,40 +80,45 @@
       <jump line="6" column="19" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
       <jump line="1" column="10" filename="$USER_HOME$/Dropbox/code/ansible/weave-start.yml" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="805" column="79" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js.py" />
+      <jump line="7" column="15" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="804" column="1" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="507" column="16" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">IyBhbnNpYmxlLXBsYXlib29rIHdlYXZlLXN0YXJ0LnltbAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>alisg1</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>alisg1</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LSBuYW1lOiBzdGFydCBvbiBzZwogIGhvc3RzOiBhbGlzZzEudGFuZ3lvdXplLmNvbQogIHRhc2tzOiAKICAgIC0gbmFtZTogc3RhcnQKICAgICAgY29tbWFuZDogd2VhdmUgbGF1bmNoIC0taW5pdC1wZWVyLWNvdW50IDMgLS1pcGFsbG9jLXJhbmdlIDEwMC42NC4wLjAvMTYgLS1kbnMtZG9tYWluPSJxYi4iCgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>all:!alisg1.tangyouze.com</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>all</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>#</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">YWxpaHoudGFuZ3lvdXplLmNvbQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWxpaGszLnRhbmd5b3V6ZS5jb20K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">YWxpaGszLnRhbmd5b3V6ZS5jb20KYWxpaGszLnRhbmd5b3V6ZS5jb20K</text>
+        <text encoding="base64">YWxpaGszLnRhbmd5b3V6ZS5jb20K</text>
       </register>
       <register name="-" type="4">
         <text>alisg1</text>
