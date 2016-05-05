@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="020f85dc-91cc-4950-b9ff-22abbbef1273" name="alihk3" url="http://alihk3.tangyouze.com">
+        <fileTransfer host="alihk3.tangyouze.com" port="22" privateKey="C:\Users\tyz\.ssh\id_rsa" rootFolder="/home/tyz" accessType="SFTP" username="tyz" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

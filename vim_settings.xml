@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/qbconfig/haproxy/haproxy.cfg" timestamp="1462370307396">
+      <file name="$USER_HOME$/Dropbox/code/qbconfig/haproxy/haproxy.cfg" timestamp="1462415225003">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -30,6 +30,9 @@
       <register name="5" type="4">
         <text>50</text>
       </register>
+      <register name=":" type="4">
+        <text>action FindNext</text>
+      </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
@@ -40,7 +43,10 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>action HighlightUsagesInFile</entry>
+        <entry>action FindNext</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
