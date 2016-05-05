@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462428539254">
+        <mark key="'" line="781" column="12" />
+        <mark key="[" line="748" column="0" />
+        <mark key="]" line="748" column="0" />
+        <mark key="." line="748" column="0" />
+        <mark key="^" line="743" column="42" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qbconfig/haproxy/haproxy.cfg" timestamp="1462415225003">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -10,31 +17,53 @@
         <mark key="^" line="5" column="34" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="796" column="73" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="387" column="13" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="78" column="16" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="739" column="0" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="36" column="48" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+      <jump line="776" column="12" filename="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">dmFyIFBST1hZX0NIUk9NRV9SRU1PVEVfREVTS1RPUCA9ICdTT0NLUzUgbG9jYWxob3N0OjEwODEnOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text>5</text>
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>50</text>
+        <text>true</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="4">
+        <text>item</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBsaXN0Owo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhciBsaXN0ID0gWydmMScsICdmMicsICdmMycsICdmNCcsICdmNScsICdzdnIxJywgJ21hY21pbmknLCAnZjEzOCddOwogICAgcmV0dXJuIGxpc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
-      </register>
-      <register name="-" type="4">
-        <text>0</text>
       </register>
     </registers>
     <search>
@@ -53,6 +82,18 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
