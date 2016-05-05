@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462428539254">
-        <mark key="'" line="781" column="12" />
-        <mark key="[" line="748" column="0" />
-        <mark key="]" line="748" column="0" />
-        <mark key="." line="748" column="0" />
-        <mark key="^" line="743" column="42" />
+      <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462428830634">
+        <mark key="'" line="776" column="12" />
+        <mark key="[" line="745" column="0" />
+        <mark key="]" line="745" column="0" />
+        <mark key="." line="745" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbconfig/haproxy/haproxy.cfg" timestamp="1462415225003">
         <mark key="[" line="8" column="0" />
@@ -27,7 +26,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -36,31 +35,31 @@
         <text encoding="base64">dmFyIFBST1hZX0NIUk9NRV9SRU1PVEVfREVTS1RPUCA9ICdTT0NLUzUgbG9jYWxob3N0OjEwODEnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>:</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gaW5zaWRlTlRVKGhvc3QpIHsKICAgIHZhciBsaXN0ID0gWydmMScsICdmMicsICdmMycsICdmNCcsICdmNScsICdzdnIxJywgJ21hY21pbmknLCAnZjEzOCddOwogICAgbGlzdC5mb3JFYWNoKGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgICAgaWYgKGl0ZW0gKyAnLnRhbmd5b3V6ZS5jb20nID09IGhvc3QpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgfSk7CiAgICByZXR1cm4gZmFsc2U7CiAgICAKfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>true</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>item</text>
+        <text>:</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsaXN0Owo=</text>
+      <register name="8" type="4">
+        <text>}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBsaXN0ID0gWydmMScsICdmMicsICdmMycsICdmNCcsICdmNScsICdzdnIxJywgJ21hY21pbmknLCAnZjEzOCddOwogICAgcmV0dXJuIGxpc3Q7Cg==</text>
+      <register name="9" type="4">
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
