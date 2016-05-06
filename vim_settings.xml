@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1462503121579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462508461947">
-        <mark key="'" line="224" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462510192332">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462498025495">
         <mark key="'" line="700" column="23" />
@@ -25,7 +25,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" timestamp="1462508375623">
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" timestamp="1462509920741">
         <mark key="'" line="81" column="27" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -55,7 +55,6 @@
       <jump line="39" column="30" filename="$USER_HOME$/Dropbox/code/qbconfig/haproxy/haproxy.cfg" />
       <jump line="149" column="12" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="61" column="5" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="213" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="88" column="33" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="23" column="30" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
@@ -66,14 +65,21 @@
       <jump line="97" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/base.yaml" />
       <jump line="86" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="229" column="11" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
-      <jump line="224" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="193" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
       <jump line="213" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
       <jump line="84" column="27" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
+      <jump line="197" column="27" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="163" column="28" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="191" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="224" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="200" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="187" column="2" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="29" column="12" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnNlc3MgPSByZXF1ZXN0cy5zZXNzaW9uKCkK</text>
+        <text encoding="base64">ICAgIFNDUklQVDogc3RhcnRlci5weSB1cyBweXRob24gY25jb25jZXB0X2FyYi5weQogICAgQUxJQVM6IGNuY29uY2VwdAo=</text>
       </register>
       <register name="-" type="4">
         <text>quantlib</text>
@@ -82,31 +88,31 @@
         <text encoding="base64">dmFyIFBST1hZX0NIUk9NRV9SRU1PVEVfREVTS1RPUCA9ICdTT0NLUzUgbG9jYWxob3N0OjEwODEnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnNlc3MgPSByZXF1ZXN0cy5zZXNzaW9uKCkK</text>
+        <text encoding="base64">ICAgIFNDUklQVDogc3RhcnRlci5weSB1cyBweXRob24gY25jb25jZXB0X2FyYi5weQogICAgQUxJQVM6IGNuY29uY2VwdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xYi1zdHJhdGVneQogICAgUUJfQlJBTkNIOiBkZXZlbG9wCiAgICBTQ1JJUFQ6IHN0YXJ0ZXIucHkgdXMgcHl0aG9uIGNuY29uY2VwdF9hcmIucHkKICAgIEFMSUFTOiBjbmNvbmNlcHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRlcC9ncmFmYW5hICMgMzAwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRlcC9ncmFmYW5hICMgMzAwMAogICMgaGFwcm94eSAgIHVzZSB0byBleHBvc2UgdGhlIHBvcnRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzZTEwOTI5ZjJiZmYwZTY5ZGI0Mjg0YzdlNTU5MTgzOTllOTk5MjczCg==</text>
+        <text encoding="base64">IyAgdWk6CiAgIyAtIGRlcC9raWJhbmEgIyA1NjAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBkZXAwOiAjIG9ubHkgdGhlc2Ugc2VydmljZSBoYXMgYWJpbGl0eSB0byBleHBvc2UgcG9ydAogIC0gZGVwL3Bvc3RncmVzICAjIDU0MzIKICAtIGRlcC9jcm9zc2JhciAgIyA4MDgwCiAgLSBkZXAvcmVkaXMgIyA2Mzc5CiAgLSBkZXAvZWxhc3RpY3NlYXJjaCAjIDkyMDAKICAtIGRlcC9tb25nbyAjIDI3MDE3CiAgLSBkZXAvaW5mbHV4ZGIgIyA4MDgzLzgwODYgZm9yIFVJIHB1cnBvc2Ugb25seSwgbm8gbWljcm9zZXJ2aWNlIHJlYWQgZGF0YSBmcm9tIGl0CiAgLSBkZXAva2liYW5hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBkZXAwOiAjIG9ubHkgdGhlc2Ugc2VydmljZSBoYXMgYWJpbGl0eSB0byBleHBvc2UgcG9ydAogIC0gZGVwL3Bvc3RncmVzICAjIDU0MzIKICAtIGRlcC9jcm9zc2JhciAgIyA4MDgwCiAgLSBkZXAvcmVkaXMgIyA2Mzc5CiAgLSBkZXAvZWxhc3RpY3NlYXJjaCAjIDkyMDAKICAtIGRlcC9tb25nbyAjIDI3MDE3CiAgLSBkZXAvaW5mbHV4ZGIgIyA4MDgzLzgwODYgZm9yIFVJIHB1cnBvc2Ugb25seSwgbm8gbWljcm9zZXJ2aWNlIHJlYWQgZGF0YSBmcm9tIGl0CiAgLSBkZXAva2liYW5hCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgR0lUOiBiYnNhbmcvcXVhbnRsaWIKPj4+Pj4+PiAzZTEwOTI5ZjJiZmYwZTY5ZGI0Mjg0YzdlNTU5MTgzOTllOTk5MjczCg==</text>
+        <text encoding="base64">ICAtIGRlcC9wb3N0Z3JlcyAgIyA1NDMyCiAgLSBkZXAvY3Jvc3NiYXIgICMgODA4MAogIC0gZGVwL3JlZGlzICMgNjM3OQogIC0gZGVwL2VsYXN0aWNzZWFyY2ggIyA5MjAwCiAgLSBkZXAvbW9uZ28gIyAyNzAxNwogIC0gZGVwL2luZmx1eGRiICMgODA4My84MDg2IGZvciBVSSBwdXJwb3NlIG9ubHksIG5vIG1pY3Jvc2VydmljZSByZWFkIGRhdGEgZnJvbSBpdAogIC0gZGVwL2tpYmFuYQo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -141,6 +147,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
