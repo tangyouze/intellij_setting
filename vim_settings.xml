@@ -6,11 +6,12 @@
       <file name="/Dummy.txt" timestamp="1462503121579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462510192332">
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462511198555">
         <mark key="'" line="29" column="12" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
+        <mark key="[" line="117" column="21" />
+        <mark key="]" line="117" column="27" />
+        <mark key="." line="117" column="27" />
+        <mark key="^" line="117" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462498025495">
         <mark key="'" line="700" column="23" />
