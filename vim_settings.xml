@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462529847546">
-        <mark key="'" line="172" column="18" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462533407807">
+        <mark key="'" line="168" column="27" />
+        <mark key="[" line="183" column="11" />
+        <mark key="]" line="183" column="16" />
+        <mark key="." line="183" column="16" />
+        <mark key="^" line="183" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462498025495">
         <mark key="'" line="700" column="23" />
@@ -78,43 +79,45 @@
       <jump line="168" column="26" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
       <jump line="58" column="34" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="172" column="18" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="84" column="13" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="168" column="27" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNDUklQVDogcHl0aG9uIG1haW4ucHkgLS1wcm9kdWN0aW9uIC0tZGVidWcKICAgIEFMSUFTOiBzdHJhdGVneS94dGMvdHVydGxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>strategy/xtc/turtle</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>strategy/xtc/turtle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEdJVDogcWJ0cmFkZS9xdWFudGxpYgogICAgUUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgICBTQ1JJUFQ6IHN0YXJ0ZXIucHkgYXNoYXJlIHB5dGhvbiB0YXNrcy9xdW90ZS9ldGZfbmF2X3F1b3RlLnB5IHNzZQogICAgQUxJQVM6IHF1b3Rlc2gK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFNDUklQVDogcHl0aG9uIG1haW4ucHkgLS1wcm9kdWN0aW9uIC0tZGVidWcKICAgIEFMSUFTOiBzdHJhdGVneS94dGMvdHVydGxlCg==</text>
+      <register name="1" type="4">
+        <text>strategy/xtc/turtle</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIFNDUklQVDogcHl0aG9uIG1haW4ucHkgLS1wcm9kdWN0aW9uIC0tZGVidWcKICAgIEFMSUFTOiBzdHJhdGVneS94dGMvdHVydGxlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIFFCX0JSQU5DSDogbWFzdGVyCiAgICBTQ1JJUFQ6IHB5dGhvbiBtYWluLnB5IC0tcHJvZHVjdGlvbiAtLWRlYnVnCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>7</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>tarter.py ashare python tasks/quote/etf_nav_quote.py sse</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xYi1zdHJhdGVneS10dXJ0bGUK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>quantlib</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>okcom</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>quotesh</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBva2NuCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
