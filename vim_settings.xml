@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1462503121579">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462524081451">
         <mark key="'" line="142" column="4" />
         <mark key="[" line="38" column="2" />
