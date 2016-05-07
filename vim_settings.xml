@@ -16,10 +16,10 @@
         <mark key="]" line="745" column="0" />
         <mark key="." line="745" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1462600178769">
-        <mark key="[" line="142" column="39" />
-        <mark key="]" line="142" column="39" />
-        <mark key="." line="142" column="39" />
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1462623023806">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
         <mark key="^" line="142" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbconfig/haproxy/haproxy.cfg" timestamp="1462498906777">
@@ -89,8 +89,8 @@
       <jump line="168" column="27" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvY2tlcjoKIyAgICAgIGltYWdlOiB0YW5neW91emUvZ3JhZmFuYTozLjAuMC1iZXRhMgo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -98,32 +98,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEdJVDogcWJ0cmFkZS9xdWFudGxpYgogICAgUUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgICBTQ1JJUFQ6IHN0YXJ0ZXIucHkgYXNoYXJlIHB5dGhvbiB0YXNrcy9xdW90ZS9ldGZfbmF2X3F1b3RlLnB5IHNzZQogICAgQUxJQVM6IHF1b3Rlc2gK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRvY2tlcjoKIyAgICAgIGltYWdlOiB0YW5neW91emUvZ3JhZmFuYTozLjAuMC1iZXRhMgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>1</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGRvY2tlcjoKICAgICAgaW1hZ2U6IHR1dHVtL2luZmx1eGRiOjAuMTIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>strategy/xtc/turtle</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFNDUklQVDogcHl0aG9uIG1haW4ucHkgLS1wcm9kdWN0aW9uIC0tZGVidWcKICAgIEFMSUFTOiBzdHJhdGVneS94dGMvdHVydGxlCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFFCX0JSQU5DSDogbWFzdGVyCiAgICBTQ1JJUFQ6IHB5dGhvbiBtYWluLnB5IC0tcHJvZHVjdGlvbiAtLWRlYnVnCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>7</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>tarter.py ashare python tasks/quote/etf_nav_quote.py sse</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xYi1zdHJhdGVneS10dXJ0bGUK</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
