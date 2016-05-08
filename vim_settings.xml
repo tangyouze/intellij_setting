@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462533407807">
-        <mark key="'" line="168" column="27" />
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462670397160">
+        <mark key="'" line="172" column="18" />
         <mark key="[" line="183" column="11" />
         <mark key="]" line="183" column="16" />
         <mark key="." line="183" column="16" />
@@ -16,7 +16,7 @@
         <mark key="]" line="745" column="0" />
         <mark key="." line="745" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1462623023806">
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1462625671729">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
@@ -35,11 +35,19 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1462670408765">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/base.yaml" timestamp="1462503010248">
         <mark key="'" line="97" column="4" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/dev/config.yml" timestamp="1462625722150">
+        <mark key="[" line="104" column="9" />
+        <mark key="]" line="104" column="9" />
+        <mark key="." line="104" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep1.yaml" timestamp="1462508327011">
         <mark key="'" line="50" column="0" />
@@ -75,7 +83,6 @@
       <jump line="197" column="27" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="163" column="28" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="191" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="224" column="4" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="200" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="187" column="2" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
@@ -84,46 +91,48 @@
       <jump line="161" column="41" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
       <jump line="168" column="26" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
       <jump line="58" column="34" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
-      <jump line="172" column="18" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="84" column="13" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="168" column="27" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="31" column="13" filename="$USER_HOME$/Dropbox/config/linux_config/run.sh" />
+      <jump line="172" column="18" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvY2tlcjoKIyAgICAgIGltYWdlOiB0YW5neW91emUvZ3JhZmFuYTozLjAuMC1iZXRhMgo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEdJVDogcWJ0cmFkZS9xdWFudGxpYgogICAgUUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgICBTQ1JJUFQ6IHN0YXJ0ZXIucHkgYXNoYXJlIHB5dGhvbiB0YXNrcy9xdW90ZS9ldGZfbmF2X3F1b3RlLnB5IHNzZQogICAgQUxJQVM6IHF1b3Rlc2gK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>:</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGRvY2tlcjoKIyAgICAgIGltYWdlOiB0YW5neW91emUvZ3JhZmFuYTozLjAuMC1iZXRhMgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>1</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGRvY2tlcjoKICAgICAgaW1hZ2U6IHR1dHVtL2luZmx1eGRiOjAuMTIK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>strategy/xtc/turtle</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFNDUklQVDogcHl0aG9uIG1haW4ucHkgLS1wcm9kdWN0aW9uIC0tZGVidWcKICAgIEFMSUFTOiBzdHJhdGVneS94dGMvdHVydGxlCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFFCX0JSQU5DSDogbWFzdGVyCiAgICBTQ1JJUFQ6IHB5dGhvbiBtYWluLnB5IC0tcHJvZHVjdGlvbiAtLWRlYnVnCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>7</text>
-      </register>
       <register name="9" type="4">
-        <text>tarter.py ashare python tasks/quote/etf_nav_quote.py sse</text>
+        <text>7</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -164,6 +173,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
