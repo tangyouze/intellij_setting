@@ -10,6 +10,9 @@
         <mark key="." line="183" column="16" />
         <mark key="^" line="183" column="16" />
       </file>
+      <file name="$USER_HOME$/Dropbox/config/linux_config/.zshrc" timestamp="1462670452294">
+        <mark key="'" line="198" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462498025495">
         <mark key="'" line="700" column="23" />
         <mark key="[" line="745" column="0" />
@@ -96,6 +99,9 @@
       <jump line="31" column="13" filename="$USER_HOME$/Dropbox/config/linux_config/run.sh" />
       <jump line="172" column="18" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/config/linux_config/.zshrc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/config/linux_config/.zshrc" />
+      <jump line="198" column="0" filename="$USER_HOME$/Dropbox/config/linux_config/.zshrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
