@@ -3,21 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462687626621">
-        <mark key="'" line="172" column="18" />
-        <mark key="[" line="183" column="11" />
-        <mark key="]" line="183" column="16" />
-        <mark key="." line="183" column="16" />
-        <mark key="^" line="183" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/config/linux_config/.zshrc" timestamp="1462670452294">
-        <mark key="'" line="198" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" timestamp="1462754693086">
+        <mark key="'" line="3" column="27" />
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="60" />
+        <mark key="." line="1" column="60" />
+        <mark key="^" line="1" column="60" />
       </file>
       <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462498025495">
         <mark key="'" line="700" column="23" />
         <mark key="[" line="745" column="0" />
         <mark key="]" line="745" column="0" />
         <mark key="." line="745" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" timestamp="1462754685559">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="175" column="33" />
+        <mark key="]" line="175" column="33" />
+        <mark key="." line="175" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-ali.yaml" timestamp="1462754673960">
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/dev/config.yml" timestamp="1462625722150">
+        <mark key="[" line="104" column="9" />
+        <mark key="]" line="104" column="9" />
+        <mark key="." line="104" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep1.yaml" timestamp="1462508327011">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/config/linux_config/.zshrc" timestamp="1462670452294">
+        <mark key="'" line="198" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1462625671729">
         <mark key="[" line="140" column="0" />
@@ -32,12 +52,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" timestamp="1462683639190">
-        <mark key="'" line="168" column="26" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1462670408765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,17 +60,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/dev/config.yml" timestamp="1462625722150">
-        <mark key="[" line="104" column="9" />
-        <mark key="]" line="104" column="9" />
-        <mark key="." line="104" column="9" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep1.yaml" timestamp="1462508327011">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -102,43 +105,45 @@
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/config/linux_config/.zshrc" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/config/linux_config/.zshrc" />
       <jump line="198" column="0" filename="$USER_HOME$/Dropbox/config/linux_config/.zshrc" />
+      <jump line="5" column="27" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
+      <jump line="188" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>, 'http://svr1.tangyouze.com:8080'</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>, 'http://svr1.tangyouze.com:8080'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEdJVDogcWJ0cmFkZS9xdWFudGxpYgogICAgUUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgICBTQ1JJUFQ6IHN0YXJ0ZXIucHkgYXNoYXJlIHB5dGhvbiB0YXNrcy9xdW90ZS9ldGZfbmF2X3F1b3RlLnB5IHNzZQogICAgQUxJQVM6IHF1b3Rlc2gK</text>
+      <register name="0" type="4">
+        <text>http://svr1.tangyouze.com:8080</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text>, 'http://svr1.tangyouze.com:8080'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvY2tlcjoKIyAgICAgIGltYWdlOiB0YW5neW91emUvZ3JhZmFuYTozLjAuMC1iZXRhMgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">c3ZyMS50YW5neW91emUuY29tIA==</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>alihk3</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvY2tlcjoKICAgICAgaW1hZ2U6IHR1dHVtL2luZmx1eGRiOjAuMTIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="4">
-        <text>9</text>
+        <text>:</text>
       </register>
-      <register name="6" type="4">
-        <text>strategy/xtc/turtle</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRvY2tlcjoKIyAgICAgIGltYWdlOiB0YW5neW91emUvZ3JhZmFuYTozLjAuMC1iZXRhMgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFNDUklQVDogcHl0aG9uIG1haW4ucHkgLS1wcm9kdWN0aW9uIC0tZGVidWcKICAgIEFMSUFTOiBzdHJhdGVneS94dGMvdHVydGxlCg==</text>
+      <register name="7" type="4">
+        <text>1</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFFCX0JSQU5DSDogbWFzdGVyCiAgICBTQ1JJUFQ6IHB5dGhvbiBtYWluLnB5IC0tcHJvZHVjdGlvbiAtLWRlYnVnCg==</text>
+        <text encoding="base64">ICAgIGRvY2tlcjoKICAgICAgaW1hZ2U6IHR1dHVtL2luZmx1eGRiOjAuMTIK</text>
       </register>
       <register name="9" type="4">
-        <text>7</text>
+        <text>9</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
