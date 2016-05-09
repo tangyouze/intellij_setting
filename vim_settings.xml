@@ -17,6 +17,24 @@
         <mark key="]" line="745" column="0" />
         <mark key="." line="745" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/gen_vars.bash" timestamp="1462802068159">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/run.sh" timestamp="1462802054469">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/mesos-install/tasks/main.yml" timestamp="1462801869955">
+        <mark key="'" line="16" column="46" />
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="57" />
+        <mark key="." line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/generate_marathon.py" timestamp="1462799312158">
         <mark key="'" line="218" column="102" />
         <mark key="[" line="218" column="102" />
@@ -60,12 +78,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1462625671729">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="142" column="39" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbconfig/haproxy/haproxy.cfg" timestamp="1462756124671">
         <mark key="'" line="98" column="4" />
         <mark key="[" line="8" column="0" />
@@ -74,6 +86,13 @@
         <mark key="^" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/persist.yaml" timestamp="1462798975402" />
+      <file name="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" timestamp="1462802047584">
+        <mark key="'" line="43" column="18" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1462670408765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,6 +101,13 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/dev" timestamp="1462801991221">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/stag/config-alihk3.yaml" timestamp="1462800105425">
         <mark key="[" line="29" column="0" />
@@ -152,43 +178,51 @@
       <jump line="98" column="45" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/base.yaml" />
       <jump line="24" column="23" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-marathon.yaml" />
       <jump line="43" column="0" filename="$USER_HOME$/Dropbox/code/qb-compose-conf/src/stag/config-alihk3.yaml" />
+      <jump line="90" column="0" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
+      <jump line="16" column="46" filename="$USER_HOME$/Dropbox/code/ansible/mesos-install/tasks/main.yml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
+      <jump line="91" column="0" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
+      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
+      <jump line="43" column="18" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB4dGMtdHl6OgogIC0gYmFzZTogYmFzZS9xYi1naXQtYmFzZQogICAgR0lUOiBxYnRyYWRlL3FiLXN0cmF0ZWd5LXh0Yy10eXoKICAgIFFCX0JSQU5DSDogbWFzdGVyCiAgICBTQ1JJUFQ6IHB5dGhvbiBjb21wdXRlX3N1bV9iYWxhbmNlLnB5CiAgICBBTElBUzogeHRjdHl6YmFsYW5jZQoKICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xYi1zdHJhdGVneS14dGMtdHl6CiAgICBRQl9CUkFOQ0g6IG1hc3RlcgogICAgU0NSSVBUOiBweXRob24gY29tcHV0ZV9zdW1fbXYucHkKICAgIEFMSUFTOiB4dGN0eXptdgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>release-0.1.0 # default is dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7JSBzZXQgbHN0ID0gWydkdWNrJywgJ3h1d2VpZGEnLCAnemhhbmd4aW4nXSAlfQo=</text>
+        <text encoding="base64">IyAgc2hlbGw6IERJU1RSTz0kKGxzYl9yZWxlYXNlIC1pcyB8IHRyICdbOnVwcGVyOl0nICdbOmxvd2VyOl0nKSAmJiBDT0RFTkFNRT0kKGxzYl9yZWxlYXNlIC1jcykgICYmIGVjaG8gImRlYiBodHRwOi8vcmVwb3MubWVzb3NwaGVyZS5pby8ke0RJU1RST30gJHtDT0RFTkFNRX0gbWFpbiIgPiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9tZXNvc3BoZXJlLmxpc3QK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB4dGMtdHl6OgogIC0gYmFzZTogYmFzZS9xYi1naXQtYmFzZQogICAgR0lUOiBxYnRyYWRlL3FiLXN0cmF0ZWd5LXh0Yy10eXoKICAgIFFCX0JSQU5DSDogbWFzdGVyCiAgICBTQ1JJUFQ6IHB5dGhvbiBjb21wdXRlX3N1bV9iYWxhbmNlLnB5CiAgICBBTElBUzogeHRjdHl6YmFsYW5jZQoKICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xYi1zdHJhdGVneS14dGMtdHl6CiAgICBRQl9CUkFOQ0g6IG1hc3RlcgogICAgU0NSSVBUOiBweXRob24gY29tcHV0ZV9zdW1fbXYucHkKICAgIEFMSUFTOiB4dGN0eXptdgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBva2NuLW9rY29tLW9rdXNkOgoKICB7JSBzZXQgbHN0ID0gWydkdWNrJywgJ3h1d2VpZGEnLCAnemhhbmd4aW4nXSAlfQogIHslIGZvciB1c2VyIGluIGxzdCAlfQogIC0gYmFzZTogYmFzZS9hY2NycGMKICAgIEFDQzoge3sgdXNlciB9fUBicm9rZXIueHRjLm9rY24KICAgIEFDQ19TSE9SVDogeHRjL29rY24ve3sgdXNlciB9fQogICAgUVVBTlRMSUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgeyUgZW5kZm9yICV9CgoKICB7JSBzZXQgbHN0ID0gWyd0eXonLCAna2V5YW4nLCAndHl6c2cnLCAnemhhbmd4aW4nLCAneHV3ZWlkYSddICV9CiAgeyUgZm9yIHVzZXIgaW4gbHN0ICV9CiAgLSBiYXNlOiBiYXNlL2FjY3JwYwogICAgQUNDOiB7eyB1c2VyIH19QGJyb2tlci54dGMub2t1c2QKICAgIEFDQ19TSE9SVDogeHRjL29rdXNkL3t7IHVzZXIgfX0KICAgIFFVQU5UTElCX0JSQU5DSDogcmVsZWFzZS0wLjEuMAoKICAtIGJhc2U6IGJhc2UvYWNjcnBjCiAgICBBQ0M6IHt7IHVzZXIgfX1AYnJva2VyLnh0Yy5va2NvbQogICAgQUNDX1NIT1JUOiB4dGMvb2tjb20ve3sgdXNlciB9fQogICAgUVVBTlRMSUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgeyUgZW5kZm9yICV9CgoKICBidGNjcDoKICAtIGJhc2U6IGJhc2UvYWNjcnBjCiAgICBBQ0M6IHR5ekBicm9rZXIueHRjLmJ0Y2NwCiAgICBBQ0NfU0hPUlQ6IHh0Yy9idGNjcC90eXoKICAgIFFVQU5UTElCX0JSQU5DSDogcmVsZWFzZS0wLjEuMAoKCiAgLSBiYXNlOiBiYXNlL2FjY3JwYy1hc2hhcmUKICAgIEFDQzogemhhbmd4aWFvaGFuQGJyb2tlci5jbi5odWF0YWkKICAgIEFDQ19TSE9SVDogemhhbmd4aWFvaGFuCiAgICBRVUFOVExJQl9CUkFOQ0g6IHJlbGVhc2UtMC4xLjAKCiAgLSBiYXNlOiBiYXNlL2FjY3JwYy1jdHAKICAgIEFDQzogZGp3QGJyb2tlci5jbi5zY3FoCiAgICBBQ0NfU0hPUlQ6IGRqd3NjcWgKICAgIFFVQU5UTElCX0JSQU5DSDogcmVsZWFzZS0wLjEuMAoKICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xYi1ndWFuZ2ZhCiAgICBRQl9CUkFOQ0g6IHJlbGVhc2UtMC4xLjAKICAgIFNDUklQVDogc3RhcnRlci5weSBhc2hhcmUgcHl0aG9uIGFjY19ycGMucHkgLS1hY2MgZGp3QGJyb2tlci5jbi5nZm54YgogICAgQUxJQVM6IHJwYwoKICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xYi1ndWFuZ2ZhCiAgICBRQl9CUkFOQ0g6IHJlbGVhc2UtMC4xLjAKICAgIFNDUklQVDogc3RhcnRlci5weSBhc2hhcmUgcHl0aG9uIGZldGNoX3J0X3RpY2tlci5weSBnZm54YgogICAgQUxJQVM6IHF1b3RlCgogIHN1YnJlZGlzOgogIC0gYmFzZTogYmFzZS9xYi1naXQtYmFzZQogICAgR0lUOiBxYnRyYWRlL3FiLXN1YnNjcmliZS1yZWRpcwogICAgUUJfQlJBTkNIOiByZWxlYXNlLTAuMC4xCiAgICBTQ1JJUFQ6IHB5dGhvbiBzdWJfYmFsYW5jZS5weQogICAgQUxJQVM6IGJhbGFuY2UKCiAgLSBiYXNlOiBiYXNlL3FiLWdpdC1iYXNlCiAgICBHSVQ6IHFidHJhZGUvcWItc3Vic2NyaWJlLXJlZGlzCiAgICBRQl9CUkFOQ0g6IHJlbGVhc2UtMC4wLjEKICAgIFNDUklQVDogcHl0aG9uIHN1Yl9wb3NpdGlvbi5weQogICAgQUxJQVM6IHBvc2l0aW9uCgojICAtIHJwYy9odWF0YWktY2lwaGVyCiMgIC0gcnBjL2xvZ190b19lcywgcmVtb3ZlIHRoaXMsIHVzZSByZWRpcyBxdWV1ZSBvciBycGMgaW5zdGVhZAoKICAjIHF1b3RlOgogIC0gYmFzZTogcXVvdGUveHRjcXVvdGUKICAgIFFVQU5UTElCX0JSQU5DSDogcmVsZWFzZS0wLjEuMAoKICAtIGJhc2U6IHF1b3RlL3NpbmFxdW90ZQogICAgUVVBTlRMSUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCgogICMgSUIgbWljcm9zZXJ2aWNlCiAgLSBiYXNlOiBiYXNlL3FiLWdpdC1iYXNlLWliCiAgICBHSVQ6IHFidHJhZGUvcXVhbnRsaWIKICAgIFFCX0JSQU5DSDogcmVsZWFzZS0wLjEuMAogICAgU0NSSVBUOiBzdGFydGVyLnB5IGFueXRpbWUgcHl0aG9uIHRhc2tzL2RhZW1vbi9mZXRjaF9ydF90aWNrZXIucHkgaWIKICAgIEFMSUFTOiBpYnF1b3RlCgogIGliOgogIC0gYmFzZTogYmFzZS9xYi1naXQtYmFzZS1pYgogICAgR0lUOiBxYnRyYWRlL3F1YW50bGliCiAgICBRQl9CUkFOQ0g6IHJlbGVhc2UtMC4xLjAKICAgIFNDUklQVDogc3RhcnRlci5weSBhbnl0aW1lIHB5dGhvbiBhY2NfcnBjLnB5IC0tYWNjIHR5ejNAYnJva2VyLmNvbS5pYgogICAgQUxJQVM6IGliM3R5egoKCiMgIC0gYmFzZToKIyAgICAgIGZpbGU6IHF1b3RlCiMgICAgICBzZXJ2aWNlOiBzaW5hcXVvdGUKICBodWF0YWk6CiAgLSBiYXNlOiBkZXAxL2h1YXRhaWNpcGhlcgogICAgR0lUOiBxYnRyYWRlL3F1YW50bGliCiAgICBRQl9CUkFOQ0g6IHJlbGVhc2UtMC4xLjAKICAgIFNDUklQVDogcHl0aG9uIHRhc2tzL2RhZW1vbi9odWF0YWlfY2lwaGVyLnB5CiAgICBBTElBUzogaHVhdGFpY2lwaGVyCgogIHNpbmFsdjI6CgogIC0gYmFzZTogcXVvdGUvc2luYWx2MnF1b3RlCiAgICBBTElBUzogc2luYWx2MnF1b3RlCiAgICBHSVQ6IHFidHJhZGUvcXVhbnRsaWIKICAgIFFCX0JSQU5DSDogcmVsZWFzZS0wLjEuMAogICAgU0NSSVBUOiBzdGFydGVyLnB5IGFzaGFyZSBweXRob24gc2luYWZpbmFuY2Uvc2luYXF1b3RlX3RyYW5zLnB5CgogIC0gYmFzZTogYmFzZS9xYi1naXQtYmFzZQogICAgR0lUOiBxYnRyYWRlL3F1YW50bGliCiAgICBRQl9CUkFOQ0g6IHJlbGVhc2UtMC4xLjAKICAgIFNDUklQVDogcHl0aG9uIHNpbmFmaW5hbmNlL3NpbmFxdW90ZV90cmFucy5weSBpbml0CiAgICBBTElBUzogc2luYWx2MnF1b3RlaW5pdAoKIyAgLSBiYXNlOiBiYXNlL3FiLWdpdC1iYXNlCiMgICAgR0lUOiBxYnRyYWRlL3FiLXN0cmF0ZWd5CiMgICAgUUJfQlJBTkNIOiBkZXZlbG9wCiMgICAgU0NSSVBUOiBzdGFydGVyLnB5IHVzIHB5dGhvbiBjbmNvbmNlcHRfYXJiLnB5CiMgICAgQUxJQVM6IGNuY29uY2VwdAoKICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xdWFudGxpYgogICAgUUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgICBTQ1JJUFQ6IHB5dGhvbiB0YXNrcy9kYWlseS9kb3dubG9hZF9ldGZfZGV0YWlsX3NjaGVkdWxlLnB5CiAgICBBTElBUzogZXRmZGV0YWlsZG93bmxvYWRlcgoKICAtIGJhc2U6IGJhc2UvcWItZ2l0LWJhc2UKICAgIEdJVDogcWJ0cmFkZS9xdWFudGxpYgogICAgUUJfQlJBTkNIOiByZWxlYXNlLTAuMS4wCiAgICBTQ1JJUFQ6IHN0YXJ0ZXIucHkgYXNoYXJlIHB5dGhvbiB0YXNrcy9xdW90ZS9ldGZfbmF2X3F1b3RlLnB5IHN6ZQogICAgQUxJQVM6IHF1b3Rlc3oKCiAgLSBiYXNlOiBiYXNlL3FiLWdpdC1iYXNlCiAgICBHSVQ6IHFidHJhZGUvcXVhbnRsaWIKICAgIFFCX0JSQU5DSDogcmVsZWFzZS0wLjEuMAogICAgU0NSSVBUOiBzdGFydGVyLnB5IGFzaGFyZSBweXRob24gdGFza3MvcXVvdGUvZXRmX25hdl9xdW90ZS5weSBzc2UKICAgIEFMSUFTOiBxdW90ZXNoCgogIHN0cmF0ZWd5OgogIC0gYmFzZTogYmFzZS9xYi1naXQtYmFzZQogICAgR0lUOiBxYnRyYWRlL3FiLXN0cmF0ZWd5LXR1cnRsZQogICAgUUJfQlJBTkNIOiBtYXN0ZXIKICAgIFNDUklQVDogcHl0aG9uIG1haW4ucHkgLS1wcm9kdWN0aW9uIC0tZGVidWcKICAgIEFMSUFTOiB0dXJ0bGUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGFsaWhrMy50YW5neW91emUuY29t</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXAxOiAjIGFuZCBuZ2lueCBhbHNvIGV4cG9zZSBwb3J0LiBBbGwgb3RoZXIgbWljcm9zZXJ2aWNlIGFyZSB0YWxrIHRvIGVhY2ggb3RoZXIgdXNpbmcgdGhlc2Ugc2VydmljZQogIC0gZGVwMS9uZ2lueCAjIDUwMDAK</text>
+        <text encoding="base64">W21lc29zLXNsYXZlXQphbGloazIudGFuZ3lvdXplLmNvbQphbGloazMudGFuZ3lvdXplLmNvbQphbGloazQudGFuZ3lvdXplLmNvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIGJhc2U6IGRlcDEvcWJhcGkKICAgIFFCQVBJX0JSQU5DSDoge3sgcXVhbnRsaWIgfX0K</text>
+        <text encoding="base64">YWxpaHoudGFuZ3lvdXplLmNvbQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>release-0.1.0 # default is dev</text>
+      <register name="5" type="2">
+        <text encoding="base64">YWxpc3oudGFuZ3lvdXplLmNvbQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>release-0.1.0</text>
+      <register name="6" type="2">
+        <text encoding="base64">YWxpc2cxLnRhbmd5b3V6ZS5jb20K</text>
       </register>
-      <register name="7" type="4">
-        <text>release-0.1.0</text>
+      <register name="7" type="2">
+        <text encoding="base64">YWxpc3oudGFuZ3lvdXplLmNvbQpkcm9wbGV0c2cudGFuZ3lvdXplLmNvbQo=</text>
       </register>
       <register name="8" type="4">
-        <text>release-0.1.0</text>
+        <text>zk id</text>
       </register>
       <register name="9" type="4">
-        <text>release-0.1.0</text>
+        <text>${CODENAME}</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
