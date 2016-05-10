@@ -10,7 +10,12 @@
         <mark key="." line="1" column="60" />
         <mark key="^" line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/stag/config-marathon.yaml" timestamp="1462755448486" />
+      <file name="$USER_HOME$/Dropbox/code/ansible/test-ansible.yaml" timestamp="1462865487854">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/Dropbox/mygithub/dotfiles/pac.js" timestamp="1462498025495">
         <mark key="'" line="700" column="23" />
         <mark key="[" line="745" column="0" />
@@ -63,6 +68,13 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/ansible/ipmap.yml" timestamp="1462865118778">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="2" />
+        <mark key="." line="32" column="2" />
+        <mark key="^" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qbconfig/haproxy/stag.sh" timestamp="1462756234606">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="4" column="28" />
@@ -85,13 +97,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/persist.yaml" timestamp="1462798975402" />
-      <file name="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" timestamp="1462802047584">
+      <file name="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" timestamp="1462865661655">
         <mark key="'" line="43" column="18" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+        <mark key="[" line="62" column="45" />
+        <mark key="]" line="62" column="50" />
+        <mark key="." line="62" column="50" />
+        <mark key="^" line="62" column="50" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1462670408765">
         <mark key="[" line="0" column="0" />
@@ -186,43 +197,48 @@
       <jump line="88" column="0" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/code/ansible/dev" />
       <jump line="43" column="18" filename="$USER_HOME$/Dropbox/code/ansible/install-mesos.yaml" />
+      <jump line="16" column="5" filename="$USER_HOME$/Dropbox/code/ansible/ipmap.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/ansible/ipmap.yml" />
+      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/code/ansible/ipmap.yml" />
+      <jump line="23" column="22" filename="$USER_HOME$/Dropbox/code/ansible/ipmap.yml" />
+      <jump line="14" column="32" filename="$USER_HOME$/Dropbox/code/ansible/test-ansible.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAgc2hlbGw6IERJU1RSTz0kKGxzYl9yZWxlYXNlIC1pcyB8IHRyICdbOnVwcGVyOl0nICdbOmxvd2VyOl0nKSAmJiBDT0RFTkFNRT0kKGxzYl9yZWxlYXNlIC1jcykgICYmIGVjaG8gImRlYiBodHRwOi8vcmVwb3MubWVzb3NwaGVyZS5pby8ke0RJU1RST30gJHtDT0RFTkFNRX0gbWFpbiIgPiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9tZXNvc3BoZXJlLmxpc3QK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGFsaWhrMy50YW5neW91emUuY29t</text>
+        <text>$</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">W21lc29zLXNsYXZlXQphbGloazIudGFuZ3lvdXplLmNvbQphbGloazMudGFuZ3lvdXplLmNvbQphbGloazQudGFuZ3lvdXplLmNvbQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVidWcg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YWxpaHoudGFuZ3lvdXplLmNvbQo=</text>
+      <register name="4" type="4">
+        <text>file</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWxpc3oudGFuZ3lvdXplLmNvbQo=</text>
+        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIE1lc29zCiAgaG9zdHM6IG1lc29zCiAgcm9sZXM6CiAgICAtIHJvbGU6IG1lc29zLWluc3RhbGwKIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWxpc2cxLnRhbmd5b3V6ZS5jb20K</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogbWVzb3MgaG9zdG5hbWUgY3JlYXRlCiAgICAgIGZpbGU6IHBhdGg9L2V0Yy9tZXNvcy1tYXN0ZXIvaG9zdG5hbWUgIHN0YXRlPXRvdWNoCiAgICAgIGJlY29tZTogdHJ1ZQoKICAgIC0gbmFtZTogbWVzb3MgaXAgc2V0CiAgICAgIGxpbmVpbmZpbGU6IGRlc3Q9L2V0Yy9tZXNvcy1tYXN0ZXIvaXAgbGluZT17eyBob3N0aXBfYWxpaGszIH19CiAgICAgIGJlY29tZTogdHJ1ZQoKICAgIC0gbmFtZTogbWVzb3MgaG9zdG5hbWUgc2V0CiAgICAgIGxpbmVpbmZpbGU6IGRlc3Q9L2V0Yy9tZXNvcy1tYXN0ZXIvaG9zdG5hbWUgbGluZT0nYWxpaGszLnRhbmd5b3V6ZS5jb20nCiAgICAgIGJlY29tZTogdHJ1ZQoKICAgIC0gbmFtZTogcmVzdGFydCB6awogICAgICBzZXJ2aWNlOiBuYW1lPXpvb2tlZXBlciBzdGF0ZT1yZXN0YXJ0ZWQKICAgICAgYmVjb21lOiB0cnVlCgogICAgLSBuYW1lOiByZXN0YXJ0IG1lc29zbWFzdGVyCiAgICAgIHNlcnZpY2U6IG5hbWU9bWVzb3MtbWFzdGVyIHN0YXRlPXJlc3RhcnRlZAogICAgICBiZWNvbWU6IHRydWUKCi0gbmFtZTogY29uZmlndXJlIHNsYXZlcwogIGhvc3RzOiBtZXNvcy1zbGF2ZQogIHRhc2tzOgogICAgLSBuYW1lOiBpbmNsdWRlIHZhcgogICAgICBpbmNsdWRlX3ZhcnM6IGlwbWFwLnltbAoKICAgIC0gbmFtZTogbWVzb3MgaXAgY3JlYXRlCiAgICAgIGZpbGU6IHBhdGg9L2V0Yy9tZXNvcy1zbGF2ZS97eyBpdGVtIH19ICBzdGF0ZT10b3VjaAogICAgICBiZWNvbWU6IHRydWUKICAgICAgd2l0aF9pdGVtczoKICAgICAgICAtICdpcCcKICAgICAgICAtICdob3N0bmFtZScKICAgICAgICAtICdjb250YWluZXJpemVycycKICAgICAgICAtICdkb2NrZXJfc29ja2V0JwoKICAgIC0gbmFtZTogbWVzb3MgaG9zdG5hbWUgc2V0CiAgICAgIHNoZWxsOiBlY2hvIHt7IGludmVudG9yeV9ob3N0bmFtZSB9fSA+IC9ldGMvbWVzb3Mtc2xhdmUvaG9zdG5hbWUKICAgICAgYmVjb21lOiB0cnVlCgogICAgLSBuYW1lOiBtZXNvcyBpcCBzZXQKICAgICAgc2hlbGw6IGVjaG8ge3sgaXBtYXBbaW52ZW50b3J5X2hvc3RuYW1lXSB9fSA+IC9ldGMvbWVzb3Mtc2xhdmUvaXAKICAgICAgYmVjb21lOiB0cnVlCgogICAgLSBuYW1lOiBtZXNvcyBjb250YWluZXJpemVyIHNldAogICAgICBzaGVsbDogZWNobyBkb2NrZXIsbWVzb3MgPiAvZXRjL21lc29zLXNsYXZlL2NvbnRhaW5lcml6ZXJzCiAgICAgIGJlY29tZTogdHJ1ZQoKICAgIC0gbmFtZTogbWVzb3Mgc29ja2V0IHNldAogICAgICBzaGVsbDogZWNobyAvdmFyL3J1bi93ZWF2ZS93ZWF2ZS5zb2NrID4gL2V0Yy9tZXNvcy1zbGF2ZS9kb2NrZXJfc29ja2V0CiAgICAgIGJlY29tZTogdHJ1ZQoKICAgIC0gbmFtZTogc2V0IHprCiAgICAgIHNoZWxsOiBlY2hvIHprOi8vYWxpaGszLnRhbmd5b3V6ZS5jb206MjE4MS9tZXNvcyA+IC9ldGMvbWVzb3MvemsKICAgICAgYmVjb21lOiB0cnVlCgogICAgIy0gbmFtZTogcmVsb2FkIG1lc29zLXNsYXZlCiAgICAjIHNlcnZpY2U6IG5hbWU9bWVzb3Mtc2xhdmUgc3RhdGU9cmVsb2FkZWQKICAgICMgYmVjb21lOiB0cnVlCgogICAgLSBuYW1lOiByZXN0YXJ0IG1lc29zLXNsYXZlCiAgICAgIHNlcnZpY2U6IG5hbWU9bWVzb3Mtc2xhdmUgc3RhdGU9cmVzdGFydGVkCiAgICAgIGJlY29tZTogdHJ1ZQoKIyAgICAtIG5hbWU6IG1lc29zIGlwIHNldAojICAgICAgbGluZWluZmlsZTogZGVzdD0vZXRjL21lc29zLXNsYXZlL2hvc3RuYW1lIGxpbmU9J2FsaWhrMy50YW5neW91emUuY29tJwojICAgICAgYmVjb21lOiB0cnVlCiMgICAgCiMgICAgLSBuYW1lOiByZXN0YXJ0IHprCiMgICAgICBzZXJ2aWNlOiBuYW1lPXpvb2tlZXBlciBzdGF0ZT1yZXN0YXJ0ZWQKIyAgICAgIGJlY29tZTogdHJ1ZQojCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWxpc3oudGFuZ3lvdXplLmNvbQpkcm9wbGV0c2cudGFuZ3lvdXplLmNvbQo=</text>
+        <text encoding="base64">ICAgICAgYmVjb21lOiB0cnVlCg==</text>
       </register>
       <register name="8" type="4">
-        <text>zk id</text>
+        <text>=/etc/mesos-master/ip  state=touch</text>
       </register>
       <register name="9" type="4">
-        <text>${CODENAME}</text>
+        <text>path</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -235,8 +251,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindPrevious</entry>
+        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
