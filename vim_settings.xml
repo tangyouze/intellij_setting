@@ -16,6 +16,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/ntu/prod/config-ntu.yaml" timestamp="1463016121515">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/ansible/gen_vars.bash" timestamp="1462802068159">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="37" />
@@ -100,7 +106,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1463013745772">
+      <file name="$USER_HOME$/Dropbox/code/qb-compose-conf/src/units/dep.yaml" timestamp="1463015903839">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="51" column="24" />
         <mark key="." line="51" column="24" />
@@ -233,25 +239,25 @@
         <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
         <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>\</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>\</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text>\</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
         <text>'</text>
